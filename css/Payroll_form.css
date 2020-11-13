@@ -152,6 +152,7 @@ select {
     min-width: 140px;
     padding: 7px 7px;
     cursor: pointer;
+    background-color: lightblue;
 }
 
 .submitButton {
@@ -162,6 +163,14 @@ select {
 .cancelButton {
     text-decoration: none;
     text-align: center;
+    background-color: red;
+}
+
+error-output {
+    margin-left: 10px;
+    font-size: 12px;
+    font-style: Bold;
+    color: red;
 }
 
 * {
