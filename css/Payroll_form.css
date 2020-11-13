@@ -43,7 +43,7 @@ body {
 
 .form-content {
     min-height: calc(100%-80px);
-    background-color: white;
+    background-color: gold;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -162,7 +162,6 @@ select {
 .cancelButton {
     text-decoration: none;
     text-align: center;
-    margin-left: 140px;
 }
 
 * {
