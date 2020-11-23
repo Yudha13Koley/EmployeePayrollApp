@@ -1,18 +1,6 @@
 {
   "EmployeePayrollDB": [
     {
-      "id": 1,
-      "_name": "Mark Boucher",
-      "_gender": "male",
-      "_department": [
-        "Finance"
-      ],
-      "_salary": "50000",
-      "_startDate": "2019-10-29T00:00:00.000Z",
-      "_note": "All In One",
-      "_profilePic": "../assets/profile-images/Ellipse -3.png"
-    },
-    {
       "id": 2,
       "_name": "Bill Gates",
       "_gender": "male",
@@ -40,14 +28,16 @@
     },
     {
       "_name": "Yudhajit Koley",
-      "_profilePic": "../assets/profile-images/Ellipse -3.png",
+      "_profilePic": "../assets/profile-images/Ellipse -5.png",
       "_gender": "male",
       "_department": [
-        "Engineer"
+        "Finance",
+        "Engineer",
+        "Others"
       ],
-      "_salary": "85000",
-      "_note": "Yudhajit decided that he is an engineer only",
-      "_startDate": "2020-11-20T00:00:00.000Z",
+      "_salary": "77000",
+      "_note": "Its very nice when things go right !",
+      "_startDate": "2020-11-23T00:00:00.000Z",
       "id": 4
     }
   ]
